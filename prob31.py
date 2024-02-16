@@ -1,7 +1,6 @@
 # 2971
 from typing import List
 
-
 def largestPerimeter(nums: List[int]) -> int:
     nums.sort()
     while len(nums) > 1:
