@@ -1,4 +1,3 @@
-
 # 231
 
 def isPowerOfTwo(n: int) -> bool:
