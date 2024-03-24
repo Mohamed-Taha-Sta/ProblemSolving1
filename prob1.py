@@ -7,4 +7,4 @@ def differenceOfSums(n: int, m: int) -> int:
 
 
 if __name__ == '__main__':
-    print(differenceOfSums(10,3))
+    print(differenceOfSums(12,3))
